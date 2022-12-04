@@ -3,6 +3,7 @@
 - [Day 1: Calorie Counting](./src/01/)
 - [Day 2: Rock Paper Scissors](./src/02/)
 - [Day 3: Rucksack Reorganization](./src/03/)
+- [Day 4: Camp Cleanup](./src/04/)
 
 ## Helper PL/SQL Package
 
