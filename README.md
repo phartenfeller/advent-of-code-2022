@@ -4,6 +4,7 @@
 - [Day 2: Rock Paper Scissors](./src/02/)
 - [Day 3: Rucksack Reorganization](./src/03/)
 - [Day 4: Camp Cleanup](./src/04/)
+- [Day 5: Supply Stacks](./src/05/)
 
 ## Helper PL/SQL Package
 
