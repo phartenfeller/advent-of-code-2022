@@ -5,6 +5,7 @@
 - [Day 3: Rucksack Reorganization](./src/03/)
 - [Day 4: Camp Cleanup](./src/04/)
 - [Day 5: Supply Stacks](./src/05/)
+- [Day 6: Tuning Trouble](./src/06/)
 
 ## Helper PL/SQL Package
 
