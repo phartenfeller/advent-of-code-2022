@@ -6,6 +6,7 @@
 - [Day 4: Camp Cleanup](./src/04/)
 - [Day 5: Supply Stacks](./src/05/)
 - [Day 6: Tuning Trouble](./src/06/)
+- [Day 7: No Space Left On Device](./src/07/)
 
 ## Helper PL/SQL Package
 
