@@ -8,6 +8,7 @@
 - [Day 6: Tuning Trouble](./src/06/)
 - [Day 7: No Space Left On Device](./src/07/) | [Blog](https://hartenfeller.dev/blog/advent-of-code-in-oracle-day-7)
 - [Day 8: Treetop Tree House](./src/08/)
+- [Day 9: Rope Bridge](./src/09/)
 
 
 ## Input table
