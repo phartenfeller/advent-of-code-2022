@@ -63,7 +63,7 @@ select row_number() over (order by line_no, command_cycle) + 1 as cycle_no
   ) char_rows
  union
  select 1, 1 from dual -- initial state -> x = 1
-), signal_strength as (
+), sprite_info as (
 select cycle_no
      , sum(add_x) over (order by cycle_no) as sprite_position
   from cycle_times
@@ -72,7 +72,7 @@ select cycle_no
      , mod(cycle_no - 1, 40) as pixel_position
      , floor( (cycle_no - 1) / 40) as row_position
      , sprite_position
-  from signal_strength
+  from sprite_info
 ), pixel_data as (
 select cycle_no
      , pixel_position
