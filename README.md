@@ -11,6 +11,7 @@
 - [Day 9: Rope Bridge](./src/09/)
 - [Day 10: Cathode-Ray Tube](./src/10/) | [Blog](https://hartenfeller.dev/blog/advent-of-code-in-oracle-day-10)
 - [Day 11: Monkey in the Middle](./src/11/)
+- [Day 12: Hill Climbing Algorithm](./src/12/)
 
 
 ## Input table
