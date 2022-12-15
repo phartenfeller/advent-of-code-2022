@@ -14,7 +14,7 @@
 - [Day 12: Hill Climbing Algorithm](./src/12/)
 - [Day 13: Distress Signal](./src/13/)
 - Day 14: TODO
-- [Day 15: Beacon Exclusion Zone](./src/14/)
+- [Day 15: Beacon Exclusion Zone](./src/15/)
 
 
 ## Input table
