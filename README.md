@@ -13,6 +13,8 @@
 - [Day 11: Monkey in the Middle](./src/11/)
 - [Day 12: Hill Climbing Algorithm](./src/12/)
 - [Day 13: Distress Signal](./src/13/)
+- Day 14: TODO
+- [Day 15: Beacon Exclusion Zone](./src/14/)
 
 
 ## Input table
